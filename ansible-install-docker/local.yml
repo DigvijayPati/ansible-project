@@ -3,7 +3,7 @@
   connection: local
   vars:
     docker_users:
-      - 'digupats'
+      - 'username'
     pip_install_packages:
       - name: docker
 
