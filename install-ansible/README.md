@@ -18,6 +18,7 @@ ansible-galaxy install geerlingguy.pip
 3. roles will be installed in the path:
 
 ```bash
-/home/username/.ansible/roles
+root@username:/home/username/.ansible/roles#
+geerlingguy.pip
 ```
 
